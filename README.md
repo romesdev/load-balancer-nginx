@@ -1,6 +1,6 @@
 # load-balancer-nginx
 
-## Simple load-balancer with Nginx and Docker
+## Simple load-balancer with Nginx and Docker based in the @joaovictornsv tutorial
 
 How to use?
 
